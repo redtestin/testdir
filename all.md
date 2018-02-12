@@ -15,7 +15,7 @@ Git Your Practice On!
 Welcome to my practice git repository where you can eff up as much as you'd like plus work with a real, living, breathing person on the other side. Here we learn all things git. Feel free to send me Pull Requests just to discover what it's like when a Repo Master asks you
 
     "Can you squash your commits for us" 
-
+turkiy are in the kit and the water is warm
 and you're all like...
 
     "How the hell do I do that?" 
@@ -31,7 +31,7 @@ git clone git@github.com:<user_name>/the-repo-you-are-cloning.git
 Clones your remote origin repo locally
 
 git fetch upstream
-
+here too
 Pulls in the remote changes not present in your local repo. Downloads objects and references from another repository.
 
 git merge upstream/master
